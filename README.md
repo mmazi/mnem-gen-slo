@@ -23,3 +23,5 @@ Usage:
     videoopus
     vodopis
     vodopisje
+
+Run `mvn test` to build the project and execute some example test code; results will be written to the console.
